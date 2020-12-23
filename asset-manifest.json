@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/U8Live/static/css/main.f2bc3afd.chunk.css",
+    "main.js": "/U8Live/static/js/main.75c7ecad.chunk.js",
+    "main.js.map": "/U8Live/static/js/main.75c7ecad.chunk.js.map",
+    "runtime-main.js": "/U8Live/static/js/runtime-main.96e1c5a8.js",
+    "runtime-main.js.map": "/U8Live/static/js/runtime-main.96e1c5a8.js.map",
+    "static/css/2.07725c36.chunk.css": "/U8Live/static/css/2.07725c36.chunk.css",
+    "static/js/2.0fee19fe.chunk.js": "/U8Live/static/js/2.0fee19fe.chunk.js",
+    "static/js/2.0fee19fe.chunk.js.map": "/U8Live/static/js/2.0fee19fe.chunk.js.map",
+    "index.html": "/U8Live/index.html",
+    "static/css/2.07725c36.chunk.css.map": "/U8Live/static/css/2.07725c36.chunk.css.map",
+    "static/css/main.f2bc3afd.chunk.css.map": "/U8Live/static/css/main.f2bc3afd.chunk.css.map",
+    "static/js/2.0fee19fe.chunk.js.LICENSE.txt": "/U8Live/static/js/2.0fee19fe.chunk.js.LICENSE.txt",
+    "static/media/analysis.ebda4115.svg": "/U8Live/static/media/analysis.ebda4115.svg",
+    "static/media/cloud-storage.1dc67392.svg": "/U8Live/static/media/cloud-storage.1dc67392.svg",
+    "static/media/cover2.a44908e8.jpg": "/U8Live/static/media/cover2.a44908e8.jpg",
+    "static/media/data.7d193d0e.svg": "/U8Live/static/media/data.7d193d0e.svg",
+    "static/media/enterprise.81915bcd.svg": "/U8Live/static/media/enterprise.81915bcd.svg",
+    "static/media/online-shopping.9e576c6b.svg": "/U8Live/static/media/online-shopping.9e576c6b.svg",
+    "static/media/project.89da0762.jpg": "/U8Live/static/media/project.89da0762.jpg",
+    "static/media/project1.4bc8e63a.jpg": "/U8Live/static/media/project1.4bc8e63a.jpg",
+    "static/media/project2.c27d2022.jpg": "/U8Live/static/media/project2.c27d2022.jpg",
+    "static/media/project3.5eb3d4f2.jpg": "/U8Live/static/media/project3.5eb3d4f2.jpg",
+    "static/media/smartphone.308f02fe.svg": "/U8Live/static/media/smartphone.308f02fe.svg",
+    "static/media/supply-chain.1d8c852e.svg": "/U8Live/static/media/supply-chain.1d8c852e.svg",
+    "static/media/teaching.d74123d9.svg": "/U8Live/static/media/teaching.d74123d9.svg",
+    "static/media/index.css": "/U8Live/static/media/touch.eb02f0f2.jpg",
+    "static/media/unite.93979047.jpg": "/U8Live/static/media/unite.93979047.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96e1c5a8.js",
+    "static/css/2.07725c36.chunk.css",
+    "static/js/2.0fee19fe.chunk.js",
+    "static/css/main.f2bc3afd.chunk.css",
+    "static/js/main.75c7ecad.chunk.js"
+  ]
+}

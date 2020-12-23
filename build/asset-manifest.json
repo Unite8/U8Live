@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Unite8/static/css/main.d6f1b820.chunk.css",
+    "main.js": "/Unite8/static/js/main.75c7ecad.chunk.js",
+    "main.js.map": "/Unite8/static/js/main.75c7ecad.chunk.js.map",
+    "runtime-main.js": "/Unite8/static/js/runtime-main.3fab20a3.js",
+    "runtime-main.js.map": "/Unite8/static/js/runtime-main.3fab20a3.js.map",
+    "static/css/2.07725c36.chunk.css": "/Unite8/static/css/2.07725c36.chunk.css",
+    "static/js/2.0fee19fe.chunk.js": "/Unite8/static/js/2.0fee19fe.chunk.js",
+    "static/js/2.0fee19fe.chunk.js.map": "/Unite8/static/js/2.0fee19fe.chunk.js.map",
+    "index.html": "/Unite8/index.html",
+    "static/css/2.07725c36.chunk.css.map": "/Unite8/static/css/2.07725c36.chunk.css.map",
+    "static/css/main.d6f1b820.chunk.css.map": "/Unite8/static/css/main.d6f1b820.chunk.css.map",
+    "static/js/2.0fee19fe.chunk.js.LICENSE.txt": "/Unite8/static/js/2.0fee19fe.chunk.js.LICENSE.txt",
+    "static/media/analysis.ebda4115.svg": "/Unite8/static/media/analysis.ebda4115.svg",
+    "static/media/cloud-storage.1dc67392.svg": "/Unite8/static/media/cloud-storage.1dc67392.svg",
+    "static/media/cover2.a44908e8.jpg": "/Unite8/static/media/cover2.a44908e8.jpg",
+    "static/media/data.7d193d0e.svg": "/Unite8/static/media/data.7d193d0e.svg",
+    "static/media/enterprise.81915bcd.svg": "/Unite8/static/media/enterprise.81915bcd.svg",
+    "static/media/online-shopping.9e576c6b.svg": "/Unite8/static/media/online-shopping.9e576c6b.svg",
+    "static/media/project.89da0762.jpg": "/Unite8/static/media/project.89da0762.jpg",
+    "static/media/project1.4bc8e63a.jpg": "/Unite8/static/media/project1.4bc8e63a.jpg",
+    "static/media/project2.c27d2022.jpg": "/Unite8/static/media/project2.c27d2022.jpg",
+    "static/media/project3.5eb3d4f2.jpg": "/Unite8/static/media/project3.5eb3d4f2.jpg",
+    "static/media/smartphone.308f02fe.svg": "/Unite8/static/media/smartphone.308f02fe.svg",
+    "static/media/supply-chain.1d8c852e.svg": "/Unite8/static/media/supply-chain.1d8c852e.svg",
+    "static/media/teaching.d74123d9.svg": "/Unite8/static/media/teaching.d74123d9.svg",
+    "static/media/index.css": "/Unite8/static/media/touch.eb02f0f2.jpg",
+    "static/media/unite.93979047.jpg": "/Unite8/static/media/unite.93979047.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fab20a3.js",
+    "static/css/2.07725c36.chunk.css",
+    "static/js/2.0fee19fe.chunk.js",
+    "static/css/main.d6f1b820.chunk.css",
+    "static/js/main.75c7ecad.chunk.js"
+  ]
+}
